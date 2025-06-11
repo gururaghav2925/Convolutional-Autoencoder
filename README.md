@@ -39,7 +39,7 @@ Visualize and compare original, noisy, and denoised images.
 ### Name:Guru Raghav Ponjeevith V
 ### Register Number:212223220027
 
-```
+```python
 class DenoisingAutoencoder(nn.Module):
     def __init__(self):
         super(DenoisingAutoencoder, self).__init__()
